@@ -29,3 +29,12 @@ together.
 Solving this documentation gap with a human readable
 markup language that can easily be queried is
 the goal of this project.
+
+# Terminology
+
+is a
+has a 
+depends on
+runs on
+interoperates with
+implemented in
