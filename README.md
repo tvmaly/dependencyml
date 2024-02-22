@@ -32,9 +32,14 @@ the goal of this project.
 
 # Terminology
 
-is a
-has a 
-depends on
-runs on
-interoperates with
-implemented in
+* is a
+
+* has a 
+
+* depends on
+
+* runs on
+
+* interoperates with
+
+* implemented in
